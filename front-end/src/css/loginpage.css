@@ -1,0 +1,76 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: monospace;
+  font-size: 20px;
+}
+
+h2{
+  margin: 25px 0px;
+  text-align: center;
+}
+
+p{
+  color: red;
+  margin-bottom: 5px;
+}
+
+label{
+  margin: 0px 0px 10px 0px;
+}
+
+.LoginPage {
+  font-family: sans-serif;
+}
+
+.left {
+  background: #744197;
+  text-align: center;
+  padding: 17% 0%;
+}
+
+.mainBorder {
+  height: 700px;
+  display: flex;
+  padding: 0px !important;
+  max-height: 100%;
+  margin: 20px auto;
+}
+
+.shadowshade{
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.right{
+  margin:10% 0%;
+  display: inline-block;
+}
+
+.left img{
+  text-align: center;
+}
+
+.formborder{
+
+  padding: 50px 20px;
+  margin: 0 auto;
+  width: 75%;
+}
+
+.floatbtn{
+  float: right !important;
+}
+.form-group a{
+  text-decoration: none;
+}
+
+.form-group button{
+  background: #744197;
+  letter-spacing: 5px;
+  padding: 5px 30px;
+  border: none;
+}
